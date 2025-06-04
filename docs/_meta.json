@@ -1,0 +1,27 @@
+[
+  {
+    "text": "dify",
+    "link": "/dify/",
+    "activeMatch": "/dify/"
+  },
+  {
+    "text": "antd-design",
+    "link": "/antd-design/",
+    "activeMatch": "/antd-design/"
+  },
+  {
+    "text": "数字大屏",
+    "link": "/large-screen/",
+    "activeMatch": "/large-screen/"
+  },
+  {
+    "text": "解决方案",
+    "link": "/project-plan/",
+    "activeMatch": "/project-plan/"
+  },
+  {
+    "text": "关于作者",
+    "link": "/about/",
+    "activeMatch": "/about/"
+  }
+]
